@@ -42,7 +42,7 @@ maintained using fundamental of exception handling in Python programming Languag
  
 ## Tools Used
 
-IDLE
-Datetime Library in Python
-Python version 3.12
+-IDLE
+-Datetime Library in Python
+-Python version 3.12
 
