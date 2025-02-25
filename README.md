@@ -12,6 +12,7 @@ defined according to the nature of transaction referred to store purchasing from
 manufacturer or vending it to a customer. The program initially displays options as “buy”
 and “sell” and asks the user to choose either of the options more suitable to the user’s
 preferences.
+
 With each transaction done by the user a suitable invoice is generated which is written in
 the text file. Similarly, the product quantity is increased in the text file when the store
 chooses to purchase products from manufacturers and decreases when the store
@@ -27,6 +28,8 @@ displays it along with the information of product’s Id, manufacturer’s name,
 name, quantity of product the customer decides to buy and the total cost price along with
 13% VAT and shipping cost according to the customer desire. This program is built in
 such a manner that it generates unique bill for each of the clients.
+
+
 he above-mentioned updates in the system is beneficial and necessary for a functional
 and reliable inventory system. This inventory system was developed by incorporating
 different data structures, conditional statements, loops and functions with the file input
